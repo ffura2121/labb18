@@ -1,0 +1,60 @@
+.about-me {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #f9f2bb;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  font-family: sans-serif;
+  text-align: center;
+  color: #333;
+}
+.one-text {
+  font-size: 24px;
+  margin-bottom: 120px;
+}
+
+.two-text {
+  font-size: 18px;
+  margin-bottom: 75px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.three-email,
+.four-github {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+h1, h2, h3 {
+  color: #444;
+  margin-bottom: 12px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 15px;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+a {
+  color: #3366cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
