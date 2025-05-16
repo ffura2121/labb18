@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labb18/static/css/main.126ea0ee.css",
+    "main.js": "/labb18/static/js/main.d5115ec9.js",
+    "static/media/2.jpg": "/labb18/static/media/2.4ccf107790fae37dbc45.jpg",
+    "static/media/1.jpg": "/labb18/static/media/1.9a395331d809080b19fe.jpg",
+    "index.html": "/labb18/index.html",
+    "main.126ea0ee.css.map": "/labb18/static/css/main.126ea0ee.css.map",
+    "main.d5115ec9.js.map": "/labb18/static/js/main.d5115ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126ea0ee.css",
+    "static/js/main.d5115ec9.js"
+  ]
+}
